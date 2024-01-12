@@ -1,0 +1,5 @@
+dnspython==2.4.2
+maskpass==0.3.7
+pymongo==4.6.1
+pynput==1.7.6
+six==1.16.0

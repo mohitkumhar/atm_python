@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "659ea26d0f8c3842785485c3"
+  },
+  "name": "mohit kumhar",
+  "email": "q@q.q",
+  "pin": "2222",
+  "money": 1500,
+  "bank number": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "65a142f441429eb7ca34826e"
+  },
+  "name": "mohit",
+  "email": "mohitmolela@gmail.com",
+  "pin": "1111",
+  "money": 99901,
+  "bank number": "293598324583745932"
+}]
